@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget 
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.ferri.tugas_UAS"
+        version   = "1.0.0">
+
+    <name>UAS_MLearning_2016</name>
+
+    <description>
+      Tugas Uas App Fitur Moodle Database Activity
+    </description>
+
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        PhoneGap Team
+    </author>
         
 
     <!--
