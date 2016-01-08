@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.ferri.tugas"
+        id        = "com.ferri.tugas_UAS"
         version   = "1.0.0">
 
-    <name>TEMATIK HIDUP BERSIH DAN SEHAT</name>
+    <name>UAS_MLearning_2016</name>
 
     <description>
-       Kelompok 5 (Ferri Aprizal, Muhammad Syaifullah, Harvianto)
+       Tugas UAS App Fitur Moodle Database Activity
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
